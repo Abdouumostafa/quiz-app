@@ -210,6 +210,12 @@ main {
   color: var(--clr-white);
 }
 
+@media screen and (max-width: 991px){
+  h2{
+    font-size: 22px;
+  }
+}
+
 .correct-answers {
   font-size: 1rem;
   margin-bottom: 2rem;
