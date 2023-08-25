@@ -5,7 +5,7 @@ import SetupForm from "./SetupForm";
 import Loading from "./Loading";
 import Modal from "./Modal";
 function App() {
-  const {
+  const { 
     waiting,
     loading,
     questions,
