@@ -8,7 +8,7 @@ function App() {
   const { 
     waiting,
     loading,
-    questions,
+    questions, 
     index,
     correct,
     setIndex,
